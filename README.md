@@ -16,7 +16,6 @@
 -    Version Control: GIT
 -    Platforms: Windows Vista, Windows 7, MacOS, Linux
 -    Development Tools: Visual Studio
--
 
 ### RELEVANT WORK EXPERIENCE
 
@@ -24,7 +23,7 @@
 -    Contractor from Infosys Ltd.,
 -    Software Developer & Test Automation Redmond, WA
 
-### PROJECTS
+### PROJECTS:
 
 ### Partner Claim Creation | Deployed |
 
@@ -53,7 +52,7 @@
 
 ### Software Developer-Trainee Sammamish, WA
 
-### PROJECT
+### PROJECT:
 
 -    Develop end to end time sheet application.
      Role:
