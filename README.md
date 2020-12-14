@@ -1,10 +1,13 @@
 # Nirmala Abothu
 
-## nirmala_ira@hotmail.com | 561-685-3902 | Sammamish, WA
+### nirmala_ira@hotmail.com | 561-685-3902 | Sammamish, WA
 
-Multidisciplinary Full Stack Web Developer with a passion for creating clean code. Expertise in test driven development & object-oriented concepts and SDLC. Experience with analytical thinking, trouble shooting, de-bugging, excellent verbal, written communication and interpersonal skills. Experience with the ownership of software project testing: defining test strategy, writing test plans, designing and executing software tests, iterative development, process improvement. Known among staff for strong wit and attention to detail no matter the complexity of the project.
+-    Multidisciplinary Full Stack Web Developer with a passion for creating clean code.
+-    Expertise in test driven development & object-oriented concepts and SDLC.
+-    Experience with analytical thinking, trouble shooting, de-bugging, excellent verbal, written communication and interpersonal skills.
+-    Experience with the ownership of software project testing: defining test strategy, writing test plans, designing and executing software tests, iterative development, process improvement. Known among staff for strong wit and attention to detail no matter the complexity of the project.
 
-## TECHNICAL SKILLS
+### TECHNICAL SKILLS
 
 -    Programming Languages: C# .Net, Core Java, JavaScript, Python
 -    Client-side web technologies: JavaScript, Angular JS 1.2, HTML and CSS.
@@ -15,13 +18,13 @@ Multidisciplinary Full Stack Web Developer with a passion for creating clean cod
 -    Development Tools: Visual Studio
 -
 
-## RELEVANT WORK EXPERIENCE
+### RELEVANT WORK EXPERIENCE
 
 -    Microsoft Corporation Aug 2017- Jan 2020
 -    Contractor from Infosys Ltd.,
 -    Software Developer & Test Automation Redmond, WA
 
-## PROJECTS
+### PROJECTS
 
 ### Partner Claim Creation | Deployed |
 
@@ -37,7 +40,7 @@ Multidisciplinary Full Stack Web Developer with a passion for creating clean cod
 -    Developed reliable code in C# .net for using Business Process Flow with various stages and steps to guide the user through a Business Process Flow system.
 -    Tools/languages: Selenium and C# dotnet.
 
-## Role:
+### Role:
 
 -    Developed test scripts with C# .Net for test automation.
 -    Modernized and automated complex software systems to validate the partners claims for Microsoft Partners project which led to a 30% increase in efficiency.
@@ -46,11 +49,11 @@ Multidisciplinary Full Stack Web Developer with a passion for creating clean cod
 -    Involved in automation failure analysis and fixes for Microsoft Dynamic CRM project using Selenium and recognized for automation failure analysis and fixes.
 -    Wrote script that automated a manual process, trimming it from 3 days to just 20 minutes.
 
-## FamilyStars LLC., Nov 2015- July 2017
+### FamilyStars LLC., Nov 2015- July 2017
 
-## Software Developer-Trainee Sammamish, WA
+### Software Developer-Trainee Sammamish, WA
 
-## PROJECT
+### PROJECT
 
 -    Develop end to end time sheet application.
      Role:
@@ -63,12 +66,12 @@ Multidisciplinary Full Stack Web Developer with a passion for creating clean cod
 -    Involved in sprint planning for identification of user-stories, tasks and estimation for the targeted feature.
 -    Mentored new team members and involved in code reviews.
 
-## EDUCATION
+### EDUCATION
 
 -    Acharya Nagarjuna University, Andhra Pradesh, India.
 -    Bachelor of Technology (B.Tech.), in Computer Science
 
-## University of Washington, Seattle, WA.
+### University of Washington, Seattle, WA.
 
 ### Coding Boot Camp Certificate (expected in Feb 2021) in Full Stack Web Development
 
@@ -77,4 +80,4 @@ Multidisciplinary Full Stack Web Developer with a passion for creating clean cod
 -    Certificate Course in Python
 -    Certificate Course in Selenium C#
 
-## VISA STATUS: US Citizen
+### VISA STATUS: US Citizen
