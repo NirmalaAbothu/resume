@@ -2,6 +2,8 @@
 
 ### nirmala_ira@hotmail.com | 561-685-3902 | Sammamish, WA
 
+[Portfolio](https://nirmalaabothu.github.io/updated-portfolio-10.27.20/projects.html)
+
 -    Multidisciplinary Full Stack Web Developer with a passion for creating clean code.
 -    Expertise in test driven development & object-oriented concepts and SDLC.
 -    Experience with analytical thinking, trouble shooting, de-bugging, excellent verbal, written communication and interpersonal skills.
